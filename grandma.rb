@@ -29,7 +29,7 @@
   else
     return "HUH?! SPEAK UP, SONNY!"
   end
-  speak_to_grandma("HEY")
+  speak_to_grandma("hey")
 end
       
     
